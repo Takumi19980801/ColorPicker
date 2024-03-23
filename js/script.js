@@ -8,5 +8,5 @@ const colorBg = () => {
 }
 
 // カラーピッカーが変更されたら colorBg を表示させる
-// イベント発生
+// 入力でイベント発生
 color.addEventListener('input',colorBg);示
